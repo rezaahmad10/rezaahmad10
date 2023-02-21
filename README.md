@@ -1,4 +1,6 @@
-### 🔭 Hello, my name is Reza Ahmad Zulfikar Mulyadi. I am a confident and ambitious student currently studying Informatics Engineering at Muhammadiyah University in Bandung. I am in my sixth semester, and have gained extensive knowledge and expertise in this field.
+### 🔭 Hello, my name is Reza Ahmad Zulfikar Mulyadi. 
+
+I am a confident and ambitious student currently studying Informatics Engineering at Muhammadiyah University in Bandung. I am in my sixth semester, and have gained extensive knowledge and expertise in this field.
 
 Currently, I am actively participating in the Campus Merdeka x Decoding Batch 4 Internship and Independent Study program to further develop my Android Development skills. I am dedicated to applying all of the knowledge I have gained and utilizing it to the fullest. I am determined to enhance my skills and excel in my future career as an Android developer.
 
